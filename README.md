@@ -6,7 +6,7 @@ Novel predictor for making making predictions of attribute values in social netw
 
 ## Why is this project useful?
 
-<img src="https://user-images.githubusercontent.com/26308648/50857343-56292700-135b-11e9-80a8-491e7b48b691.png" width="620">
+<img src="https://user-images.githubusercontent.com/26308648/51215393-cd783100-18ee-11e9-88db-b58df3719fbd.png" width="620">
 
 
 ## How to get started with this project?
