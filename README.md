@@ -28,7 +28,7 @@ $ cd Proclivity_Propagation
 You will need to download [faceboook100 dataset](https://www.sciencedirect.com/science/article/pii/S0378437111009186) to run this project. You can get it from [here.](https://drive.google.com/drive/folders/1wPF1eSdj-44O3snk03N4w1yk8TCi09Mc?usp=sharing)
 
 
-## How to get run this project?
+## How to run this project?
 This code takes commandline input for a few parameters (filenames, ProNe matrix types and attribute numbers). This is the general format for running the code.
 ```
 $ python proclivity.py -file Filename -prtype ProNe_Type -att Attribute_Num
