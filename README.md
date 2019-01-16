@@ -2,14 +2,14 @@
 Novel predictor for making making predictions of attribute values in social networks
 
 ## What does this project do?
-This repository proposes a new method for prediction of missing attributes in friendship networks by using a state-of-the-art metric called PROclivity index for attributed NEtworks ( [ProNe](https://link.springer.com/chapter/10.1007%2F978-3-319-57454-7_18) ).  This method presents the first successful integration of the ProNe correlation metric with attribute prediction techniques. This new method is able achieve **prediction accuracies as high as 85%, 78%, 75% and 69% for attributes like class year, dormitory, status and gender** respectively. Alongside the high prediction accuracies, **Proclivity_Propagation** can also give **confidence intervals on the predicted accuracies**. **Proclivity Propagation** gives better values of prediction accuracies than established methods like Support Vector Machines, Low Rank Matrix Completion and Label Propagation.
+This repository proposes a new method for prediction of missing attributes in friendship networks by using a state-of-the-art metric called PROclivity index for attributed NEtworks ( [ProNe](https://link.springer.com/chapter/10.1007%2F978-3-319-57454-7_18) ).  This method presents the first successful integration of the ProNe correlation metric with attribute prediction techniques. The predictor given in this repository incorporates **homophily, heterophily, self and cross proclivity** to give robust predictions of missing attribute values. This new method is able achieve **prediction accuracies as high as 85%, 78%, 75% and 69% for attributes like class year, dormitory, status and gender** respectively. Alongside the high prediction accuracies, **Proclivity_Propagation** can also give **confidence intervals on the predicted accuracies**. **Proclivity Propagation** gives better values of prediction accuracies than established methods like Support Vector Machines, Low Rank Matrix Completion and Label Propagation.
 
 ## Applications of project?
 Chief among the intended applications are the following:
 
-* **Missing-data imputation:** Missing data is known to create many problems in statisti- cal analysis of datasets and hence missing-data imputation is an extremely worthwhile goal to be desired in a project.
+* **Missing data imputation:** Missing data is known to create many problems in statistical analysis of datasets. The method of Proclivity Propagation gives a robust predictor for imputation of values of missing data.
 
-* **Marketing:** Attribute prediction in social networks can help networks in more ap- propriate predictions for e-shopping for users, thereby making their online shopping experience more fast, relevant and worthwhile. 
+* **Marketing:** Attribute prediction in social networks can help networks in more appropriate predictions for e-shopping for users, thereby making their online shopping experience more fast, relevant and worthwhile. 
 
 * **Privacy considerations:** Accurate prediction of attributes can help to reveal which attributes or combinations of attributes can reveal sensitive information about users in a network. 
 
