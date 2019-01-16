@@ -7,11 +7,11 @@ This repository proposes a new method for prediction of missing attributes in fr
 ## Applications of project?
 Chief among the intended applications are the following:
 
-⋅⋅* **Missing-data imputation:** Missing data is known to create many problems in statisti- cal analysis of datasets and hence missing-data imputation is an extremely worthwhile goal to be desired in a project.
+* **Missing-data imputation:** Missing data is known to create many problems in statisti- cal analysis of datasets and hence missing-data imputation is an extremely worthwhile goal to be desired in a project.
 
-⋅⋅* **Marketing:** Attribute prediction in social networks can help networks in more ap- propriate predictions for e-shopping for users, thereby making their online shopping experience more fast, relevant and worthwhile. 
+* **Marketing:** Attribute prediction in social networks can help networks in more ap- propriate predictions for e-shopping for users, thereby making their online shopping experience more fast, relevant and worthwhile. 
 
-⋅⋅* **Privacy considerations:** Accurate prediction of attributes can help to reveal which attributes or combinations of attributes can reveal sensitive information about users in a network. 
+* **Privacy considerations:** Accurate prediction of attributes can help to reveal which attributes or combinations of attributes can reveal sensitive information about users in a network. 
 
 
 A visualization of one of the datasets used in this project ( *American75* ) can be found below. The plot given below uses modularity statistics from [Gephi](https://gephi.org/) to detect communities in the network. The plot uses different colors to show different communities in the said social network.
