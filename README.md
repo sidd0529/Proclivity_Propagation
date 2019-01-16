@@ -16,7 +16,7 @@ Chief among the intended applications are the following:
 
 A visualization of one of the datasets used in this project ( *American75* ) can be found below. The plot given below uses modularity statistics from [Gephi](https://gephi.org/) to detect communities in the network. The plot uses different colors to show different communities in the said social network.
 
-<img src="https://user-images.githubusercontent.com/26308648/51215393-cd783100-18ee-11e9-88db-b58df3719fbd.png" width="620">
+<img src="https://user-images.githubusercontent.com/26308648/51215393-cd783100-18ee-11e9-88db-b58df3719fbd.png" width="600">
 
 
 ## How to get started with this project?
