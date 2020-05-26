@@ -1,5 +1,5 @@
 # Proclivity_Propagation
-Novel predictor for making making predictions of attribute values in social networks
+Novel predictor for making predictions of attribute values in social networks
 
 ## What does this project do?
 This repository proposes a new method for prediction of missing attributes in friendship networks by using a state-of-the-art metric called PROclivity index for attributed NEtworks ( [ProNe](https://link.springer.com/chapter/10.1007%2F978-3-319-57454-7_18) ).  This method presents the first successful integration of the ProNe correlation metric with attribute prediction techniques. The predictor given in this repository incorporates **homophily, heterophily, self and cross proclivity** to give robust predictions of missing attribute values. Tests of this new predictor on [Facebook100 dataset](https://www.sciencedirect.com/science/article/pii/S0378437111009186) give **prediction accuracies as high as 85%, 78%, 75% and 69% for attributes like class year, dormitory, status and gender** respectively. Alongside the high prediction accuracies, **Proclivity_Propagation** can also give **confidence intervals on the predicted accuracies**. **Proclivity Propagation** gives better values of prediction accuracies than established methods like Support Vector Machines, Low Rank Matrix Completion and Label Propagation.
