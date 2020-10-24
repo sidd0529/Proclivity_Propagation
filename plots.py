@@ -22,7 +22,6 @@ def visualize(nodes, node_indices, chosen_attribute, adjacency):
 	nodes_visualize = nodes.copy()
 	edges_visualize = (adjacency[node_indices, :])[:,node_indices]
 
-	print "Kaya3 ", edges_visualize.shape, nodes_visualize.shape
 
 	attribute_values = nodes_visualize[:,chosen_attribute]
 
